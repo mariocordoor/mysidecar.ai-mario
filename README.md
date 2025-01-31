@@ -37,31 +37,3 @@ To run the tests, run the following command:
 npm run test
 ```
 
-
-## Project Structure 
-
-/app
-  ├── api
-  │   ├── login
-  │   │   ├── route.ts
-  ├── dashboard
-  │   ├── page.tsx
-  ├── login
-  │   ├── page.tsx
-  ├── context
-/lib
-  ├── contexts
-  │   ├── authContext.tsx
-  │   ├── authContext.test.tsx
-  ├── hooks
-  │   ├── useAuth.ts
-  │   ├── useAuth.test.ts
-/components
-  ├── ui
-  │   ├── FormInput.tsx
-  │   ├── FormInput.test.tsx
-  │   ├── Logo.tsx
-  │   ├── Logo.test.tsx
-  │   ├── UserDetailsCard.tsx
-  │   ├── UserDetailsCard.test.tsx
-
