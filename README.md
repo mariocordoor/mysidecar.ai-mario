@@ -29,6 +29,14 @@ npm run dev
 Open [http://localhost:3000] with your browser to see the result.
 
 
+## Usage
+
+Go to the login page and use one of these 2 mocked user credentials:
+
+1 - name: "Mario", email: "mario.demko@cordoor.com" 
+2 -  name: "Borja", email: "borja@mysidecar.ai"
+
+
 ## Testing
 
 To run the tests, run the following command:
@@ -36,4 +44,6 @@ To run the tests, run the following command:
 ```bash
 npm run test
 ```
+
+
 
